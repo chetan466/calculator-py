@@ -1,2 +1,2 @@
 # calculator-py
-simple CLI  calculator use py
+simple CLI  calculator py
