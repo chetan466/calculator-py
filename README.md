@@ -1,2 +1,2 @@
 # calculator-py
-simple CLI  calculator py
+simple  normql calculator py
