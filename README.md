@@ -1,2 +1,2 @@
 # calculator-py
-simple  normql calculator py
+simple  normal calculator py
